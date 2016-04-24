@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="initialTrainLoader" type="id"/>
+    <item name="transferTrainLoader" type="id"/>
+    <item name="arrivalTrainLoader" type="id"/>
+</resources>

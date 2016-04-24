@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IrishRailSample</string>
+
+    <string name="fromStation">From: [station]</string>
+    <string name="transferStation">Transfer: [station]</string>
+    <string name="arrivalStation">Arrival: [station]</string>
+
+    <string name="trainInfoDeparture">[expectedtime] - Towards [destination] ([direction])</string>
+    <string name="trainInfoArrival">[expectedtime] - Get Down at [station]</string>
+
+    <string name="noTrains">No Trains found in the next 1.5 hours</string>
+</resources>
