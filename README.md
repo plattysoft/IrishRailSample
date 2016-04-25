@@ -19,6 +19,8 @@ The app uses retrofit for the handling of the API and Loaders for the handling o
 The UI has been designed to maximize simplicity.
 
 ##Possible improvements
+* Improve error handling (no internet connection, no trains available, etc)
+* Improve loading visual feedback
 * Add a mock API to be able to test the functionality anytime (There are no trains that do that conneciton late in the evening, also interesting for automatic testing)
 * Add a confirmation that the train goes to the destination station. This requires an extra API call, but solves the problem of getting into the wrong train (which does not happen in the particular example, but could be if the destination was Howth or Sutton)
 * Allow selection of origin and destination station as well as directions
